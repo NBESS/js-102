@@ -34,8 +34,3 @@ function printBox(width, height){
 printBox(8, 5);
 
 
-
-
-
-// console.log(outterLine.join(''));
-// console.log(innerLine.join(''));
